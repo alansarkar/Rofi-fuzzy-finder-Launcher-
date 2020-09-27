@@ -9,7 +9,7 @@ VIDEO=/bin/mpv
 IMAGE=/bin/gpicview
 
 #CPULIMIT=" cpulimit -c 3 --background  --limit 20%    --exe  "
-DIR_TO_SEARCH="/home/ /media/jerome/"
+DIR_TO_SEARCH="/home/ /media/"
 
 
 function rofi_main()
